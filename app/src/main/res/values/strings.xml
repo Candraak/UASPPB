@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Netpix</string>
+    <string name="favorite">Favorite</string>
+    <string name="discovery">Discovery</string>
+    <string name="exit_message">Tekan sekali lagi untuk keluar</string>
+    <string name="synopsis">Sinopsis</string>
+    <string name="detail">Detail</string>
+    <string name="note">Catatan</string>
+    <string name="save">Simpan</string>
+    <string name="film_favorit_anda_kosong">Film Favorit Anda Kosong</string>
+    <string name="intro_title">Selamat Datang di aplikasi Netpix</string>
+    <string name="intro_slogan">Mudah, Cepat, Nyaman</string>
+    <string name="lanjut">Lanjut</string>
+</resources>

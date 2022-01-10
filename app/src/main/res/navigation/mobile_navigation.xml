@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/fragmentExplore">
+
+    <fragment
+        android:id="@+id/fragmentExplore"
+        android:name="com.candrakhusni.netpix.ui.explore.ExploreFragment"
+        android:label="Explore"
+        tools:layout="@layout/fragment_discovery" />
+
+    <fragment
+        android:id="@+id/fragmentFavorite"
+        android:name="com.candrakhusni.netpix.ui.favorite.FavoriteFragment"
+        android:label="Favorite"
+        tools:layout="@layout/fragment_favorite" />
+</navigation>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "376494669809",
+    "firebase_url": "https://netpix-abdul-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "netpix-abdul",
+    "storage_bucket": "netpix-abdul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376494669809:android:9819c589802a85c065ce50",
+        "android_client_info": {
+          "package_name": "com.candrakhusni.netpix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376494669809-o66m7qugu5m9ns1b7t440b2v514iev95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC925jjnNislIvFmKbnRnsIgANNf0ZJp0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376494669809-o66m7qugu5m9ns1b7t440b2v514iev95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
